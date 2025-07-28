@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0204-count-primes) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhipsa14/Leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhipsa14/Leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -51,12 +52,18 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhipsa14/Leetcode_questions/tree/master/0242-valid-anagram) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhipsa14/Leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Greedy
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhipsa14/Leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhipsa14/Leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/abhipsa14/Leetcode_questions/tree/master/0050-powx-n) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhipsa14/Leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
