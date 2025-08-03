@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/abhipsa14/Leetcode_questions/tree/master/0031-next-permutation) |
+| [0128-longest-consecutive-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0204-count-primes) |
 | [0503-next-greater-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhipsa14/Leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -19,6 +20,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/abhipsa14/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2689-rearranging-fruits](https://github.com/abhipsa14/Leetcode_questions/tree/master/2689-rearranging-fruits) |
@@ -111,4 +113,8 @@
 | ------- |
 | [0031-next-permutation](https://github.com/abhipsa14/Leetcode_questions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/abhipsa14/Leetcode_questions/tree/master/0125-valid-palindrome) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
