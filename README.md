@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/abhipsa14/Leetcode_questions/tree/master/0031-next-permutation) |
 | [0204-count-primes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0204-count-primes) |
 | [0503-next-greater-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhipsa14/Leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhipsa14/Leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/abhipsa14/Leetcode_questions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
