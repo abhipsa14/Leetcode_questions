@@ -10,6 +10,7 @@
 | [0204-count-primes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0204-count-primes) |
 | [0503-next-greater-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhipsa14/Leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/abhipsa14/Leetcode_questions/tree/master/0940-fruit-into-baskets) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhipsa14/Leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhipsa14/Leetcode_questions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/abhipsa14/Leetcode_questions/tree/master/0242-valid-anagram) |
+| [0940-fruit-into-baskets](https://github.com/abhipsa14/Leetcode_questions/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2689-rearranging-fruits](https://github.com/abhipsa14/Leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhipsa14/Leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -93,6 +95,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/abhipsa14/Leetcode_questions/tree/master/0940-fruit-into-baskets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/abhipsa14/Leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Brainteaser
 |  |
