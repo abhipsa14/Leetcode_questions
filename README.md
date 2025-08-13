@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/abhipsa14/Leetcode_questions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/abhipsa14/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/abhipsa14/Leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
@@ -106,6 +107,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/abhipsa14/Leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
