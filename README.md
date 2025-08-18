@@ -13,6 +13,7 @@
 | [0204-count-primes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
+| [0679-24-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhipsa14/Leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/abhipsa14/Leetcode_questions/tree/master/0940-fruit-into-baskets) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhipsa14/Leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -71,6 +72,7 @@
 | [0048-rotate-image](https://github.com/abhipsa14/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/abhipsa14/Leetcode_questions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0204-count-primes) |
+| [0679-24-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0679-24-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -185,4 +187,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhipsa14/Leetcode_questions/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
