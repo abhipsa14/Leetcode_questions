@@ -11,6 +11,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0679-24-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0679-24-game) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhipsa14/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0940-fruit-into-baskets](https://github.com/abhipsa14/Leetcode_questions/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -40,6 +42,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhipsa14/Leetcode_questions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Bit Manipulation
@@ -91,6 +94,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhipsa14/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhipsa14/Leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhipsa14/Leetcode_questions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
