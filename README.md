@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/abhipsa14/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/abhipsa14/Leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/abhipsa14/Leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0229-majority-element-ii) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhipsa14/Leetcode_questions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/abhipsa14/Leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhipsa14/Leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abhipsa14/Leetcode_questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Two Pointers
