@@ -22,6 +22,7 @@
 | [0940-fruit-into-baskets](https://github.com/abhipsa14/Leetcode_questions/tree/master/0940-fruit-into-baskets) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/abhipsa14/Leetcode_questions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abhipsa14/Leetcode_questions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhipsa14/Leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhipsa14/Leetcode_questions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -89,6 +90,7 @@
 | [0263-ugly-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0263-ugly-number) |
 | [0587-erect-the-fence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0587-erect-the-fence) |
 | [0679-24-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0679-24-game) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/abhipsa14/Leetcode_questions/tree/master/3830-find-closest-person) |
