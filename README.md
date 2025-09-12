@@ -93,6 +93,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhipsa14/Leetcode_questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/abhipsa14/Leetcode_questions/tree/master/3830-find-closest-person) |
 ## Enumeration
@@ -109,6 +110,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/abhipsa14/Leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abhipsa14/Leetcode_questions/tree/master/0242-valid-anagram) |
+| [3462-vowels-game-in-a-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/abhipsa14/Leetcode_questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -233,4 +236,8 @@
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/abhipsa14/Leetcode_questions/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
