@@ -27,6 +27,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhipsa14/Leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhipsa14/Leetcode_questions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/abhipsa14/Leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/abhipsa14/Leetcode_questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -95,6 +96,7 @@
 | [0679-24-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0679-24-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhipsa14/Leetcode_questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0204-count-primes) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## String
 |  |
 | ------- |
@@ -165,6 +168,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/abhipsa14/Leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhipsa14/Leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
