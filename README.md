@@ -137,6 +137,7 @@
 | [1006-vowel-spellchecker](https://github.com/abhipsa14/Leetcode_questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhipsa14/Leetcode_questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/abhipsa14/Leetcode_questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1894-merge-strings-alternately](https://github.com/abhipsa14/Leetcode_questions/tree/master/1894-merge-strings-alternately) |
 | [2429-design-a-food-rating-system](https://github.com/abhipsa14/Leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [3462-vowels-game-in-a-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
@@ -214,6 +215,7 @@
 | [0031-next-permutation](https://github.com/abhipsa14/Leetcode_questions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/abhipsa14/Leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
+| [1894-merge-strings-alternately](https://github.com/abhipsa14/Leetcode_questions/tree/master/1894-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhipsa14/Leetcode_questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Union Find
 |  |
