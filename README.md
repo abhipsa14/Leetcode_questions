@@ -42,6 +42,7 @@
 | [2689-rearranging-fruits](https://github.com/abhipsa14/Leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhipsa14/Leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
@@ -152,6 +153,7 @@
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhipsa14/Leetcode_questions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhipsa14/Leetcode_questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2689-rearranging-fruits](https://github.com/abhipsa14/Leetcode_questions/tree/master/2689-rearranging-fruits) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -178,12 +180,14 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhipsa14/Leetcode_questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/abhipsa14/Leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/abhipsa14/Leetcode_questions/tree/master/0940-fruit-into-baskets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/abhipsa14/Leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -270,6 +274,7 @@
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/abhipsa14/Leetcode_questions/tree/master/2529-range-product-queries-of-powers) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
