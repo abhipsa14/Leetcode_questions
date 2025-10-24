@@ -58,6 +58,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhipsa14/Leetcode_questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/abhipsa14/Leetcode_questions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/abhipsa14/Leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/abhipsa14/Leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [3678-design-task-manager](https://github.com/abhipsa14/Leetcode_questions/tree/master/3678-design-task-manager) |
@@ -68,6 +69,7 @@
 | [0229-majority-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/abhipsa14/Leetcode_questions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhipsa14/Leetcode_questions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Bit Manipulation
 |  |
@@ -113,6 +115,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhipsa14/Leetcode_questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/abhipsa14/Leetcode_questions/tree/master/1642-water-bottles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
@@ -124,6 +127,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0204-count-primes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/abhipsa14/Leetcode_questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Number Theory
 |  |
@@ -283,6 +287,7 @@
 |  |
 | ------- |
 | [0679-24-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0679-24-game) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Geometry
 |  |
 | ------- |
