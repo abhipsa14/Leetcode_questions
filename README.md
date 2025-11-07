@@ -12,6 +12,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/abhipsa14/Leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/abhipsa14/Leetcode_questions/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
@@ -184,6 +185,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/abhipsa14/Leetcode_questions/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhipsa14/Leetcode_questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/abhipsa14/Leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
