@@ -108,6 +108,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhipsa14/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/abhipsa14/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/abhipsa14/Leetcode_questions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0204-count-primes) |
@@ -174,6 +175,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhipsa14/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/abhipsa14/Leetcode_questions/tree/master/0050-powx-n) |
 ## Heap (Priority Queue)
 |  |
@@ -331,4 +333,8 @@
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/abhipsa14/Leetcode_questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abhipsa14/Leetcode_questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
