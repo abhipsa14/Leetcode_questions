@@ -27,6 +27,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhipsa14/Leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/abhipsa14/Leetcode_questions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/abhipsa14/Leetcode_questions/tree/master/1006-vowel-spellchecker) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/abhipsa14/Leetcode_questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/abhipsa14/Leetcode_questions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abhipsa14/Leetcode_questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhipsa14/Leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/abhipsa14/Leetcode_questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/abhipsa14/Leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/abhipsa14/Leetcode_questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
