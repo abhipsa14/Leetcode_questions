@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/abhipsa14/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/abhipsa14/Leetcode_questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/abhipsa14/Leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -174,6 +175,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0055-jump-game) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhipsa14/Leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abhipsa14/Leetcode_questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhipsa14/Leetcode_questions/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -233,6 +235,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhipsa14/Leetcode_questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/abhipsa14/Leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhipsa14/Leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abhipsa14/Leetcode_questions/tree/master/1402-count-square-submatrices-with-all-ones) |
