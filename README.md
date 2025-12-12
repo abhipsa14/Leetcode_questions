@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhipsa14/Leetcode_questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/abhipsa14/Leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/abhipsa14/Leetcode_questions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -60,6 +61,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhipsa14/Leetcode_questions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhipsa14/Leetcode_questions/tree/master/0242-valid-anagram) |
