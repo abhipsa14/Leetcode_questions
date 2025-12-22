@@ -28,6 +28,7 @@
 | [0679-24-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/abhipsa14/Leetcode_questions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0830-largest-triangle-area](https://github.com/abhipsa14/Leetcode_questions/tree/master/0830-largest-triangle-area) |
+| [0896-monotonic-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0896-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhipsa14/Leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/abhipsa14/Leetcode_questions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/abhipsa14/Leetcode_questions/tree/master/1006-vowel-spellchecker) |
