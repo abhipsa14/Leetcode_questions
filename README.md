@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhipsa14/Leetcode_questions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/abhipsa14/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhipsa14/Leetcode_questions/tree/master/0242-valid-anagram) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhipsa14/Leetcode_questions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/abhipsa14/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/abhipsa14/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/abhipsa14/Leetcode_questions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0204-count-primes) |
@@ -163,6 +165,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abhipsa14/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abhipsa14/Leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/abhipsa14/Leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abhipsa14/Leetcode_questions/tree/master/0242-valid-anagram) |
