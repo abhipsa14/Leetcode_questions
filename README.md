@@ -17,6 +17,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhipsa14/Leetcode_questions/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0204-count-primes) |
+| [0228-summary-ranges](https://github.com/abhipsa14/Leetcode_questions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0407-trapping-rain-water-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
