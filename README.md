@@ -275,6 +275,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/abhipsa14/Leetcode_questions/tree/master/0031-next-permutation) |
+| [0086-partition-list](https://github.com/abhipsa14/Leetcode_questions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/abhipsa14/Leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [1894-merge-strings-alternately](https://github.com/abhipsa14/Leetcode_questions/tree/master/1894-merge-strings-alternately) |
@@ -382,4 +383,5 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhipsa14/Leetcode_questions/tree/master/0002-add-two-numbers) |
+| [0086-partition-list](https://github.com/abhipsa14/Leetcode_questions/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
