@@ -39,6 +39,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/abhipsa14/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhipsa14/Leetcode_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/abhipsa14/Leetcode_questions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1390-four-divisors](https://github.com/abhipsa14/Leetcode_questions/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abhipsa14/Leetcode_questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhipsa14/Leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -152,6 +153,7 @@
 | [0679-24-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/abhipsa14/Leetcode_questions/tree/master/0830-largest-triangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/abhipsa14/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1390-four-divisors](https://github.com/abhipsa14/Leetcode_questions/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhipsa14/Leetcode_questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abhipsa14/Leetcode_questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
