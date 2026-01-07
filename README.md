@@ -127,6 +127,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/abhipsa14/Leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
@@ -140,6 +141,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/abhipsa14/Leetcode_questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/abhipsa14/Leetcode_questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Math
@@ -324,6 +326,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/abhipsa14/Leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Segment Tree
 |  |
 | ------- |
