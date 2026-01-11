@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/abhipsa14/Leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/abhipsa14/Leetcode_questions/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/abhipsa14/Leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/abhipsa14/Leetcode_questions/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/abhipsa14/Leetcode_questions/tree/master/0152-maximum-product-subarray) |
@@ -273,6 +274,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/abhipsa14/Leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhipsa14/Leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhipsa14/Leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhipsa14/Leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -281,12 +283,14 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/abhipsa14/Leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhipsa14/Leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/abhipsa14/Leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhipsa14/Leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/abhipsa14/Leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhipsa14/Leetcode_questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -314,6 +318,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abhipsa14/Leetcode_questions/tree/master/0048-rotate-image) |
+| [0085-maximal-rectangle](https://github.com/abhipsa14/Leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhipsa14/Leetcode_questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/abhipsa14/Leetcode_questions/tree/master/0498-diagonal-traverse) |
