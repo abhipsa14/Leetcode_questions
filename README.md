@@ -38,6 +38,7 @@
 | [1006-vowel-spellchecker](https://github.com/abhipsa14/Leetcode_questions/tree/master/1006-vowel-spellchecker) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/abhipsa14/Leetcode_questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/abhipsa14/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1266-minimum-time-visiting-all-points](https://github.com/abhipsa14/Leetcode_questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhipsa14/Leetcode_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/abhipsa14/Leetcode_questions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1390-four-divisors](https://github.com/abhipsa14/Leetcode_questions/tree/master/1390-four-divisors) |
@@ -163,6 +164,7 @@
 | [0679-24-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/abhipsa14/Leetcode_questions/tree/master/0830-largest-triangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/abhipsa14/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1266-minimum-time-visiting-all-points](https://github.com/abhipsa14/Leetcode_questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/abhipsa14/Leetcode_questions/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhipsa14/Leetcode_questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -391,6 +393,7 @@
 | [0587-erect-the-fence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/abhipsa14/Leetcode_questions/tree/master/0830-largest-triangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/abhipsa14/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1266-minimum-time-visiting-all-points](https://github.com/abhipsa14/Leetcode_questions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Queue
 |  |
 | ------- |
