@@ -45,6 +45,7 @@
 | [1390-four-divisors](https://github.com/abhipsa14/Leetcode_questions/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abhipsa14/Leetcode_questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1441-build-an-array-with-stack-operations](https://github.com/abhipsa14/Leetcode_questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abhipsa14/Leetcode_questions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhipsa14/Leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -291,6 +292,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/abhipsa14/Leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhipsa14/Leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/abhipsa14/Leetcode_questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
@@ -364,6 +366,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/abhipsa14/Leetcode_questions/tree/master/0498-diagonal-traverse) |
+| [1441-build-an-array-with-stack-operations](https://github.com/abhipsa14/Leetcode_questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/abhipsa14/Leetcode_questions/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abhipsa14/Leetcode_questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
