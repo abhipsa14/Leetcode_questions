@@ -291,6 +291,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/abhipsa14/Leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhipsa14/Leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhipsa14/Leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/abhipsa14/Leetcode_questions/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/abhipsa14/Leetcode_questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -416,6 +417,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhipsa14/Leetcode_questions/tree/master/0225-implement-stack-using-queues) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/abhipsa14/Leetcode_questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhipsa14/Leetcode_questions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Game Theory
@@ -425,6 +427,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhipsa14/Leetcode_questions/tree/master/0225-implement-stack-using-queues) |
 | [2429-design-a-food-rating-system](https://github.com/abhipsa14/Leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/abhipsa14/Leetcode_questions/tree/master/3678-design-task-manager) |
 ## Trie
