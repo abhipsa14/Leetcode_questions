@@ -69,6 +69,7 @@
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhipsa14/Leetcode_questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2689-rearranging-fruits](https://github.com/abhipsa14/Leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abhipsa14/Leetcode_questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhipsa14/Leetcode_questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3453-separate-squares-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3454-separate-squares-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -100,6 +101,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/abhipsa14/Leetcode_questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2429-design-a-food-rating-system](https://github.com/abhipsa14/Leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/abhipsa14/Leetcode_questions/tree/master/2689-rearranging-fruits) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhipsa14/Leetcode_questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3583-count-special-triplets](https://github.com/abhipsa14/Leetcode_questions/tree/master/3583-count-special-triplets) |
 | [3678-design-task-manager](https://github.com/abhipsa14/Leetcode_questions/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhipsa14/Leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -196,6 +198,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2427-number-of-common-factors](https://github.com/abhipsa14/Leetcode_questions/tree/master/2427-number-of-common-factors) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhipsa14/Leetcode_questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Number Theory
 |  |
 | ------- |
