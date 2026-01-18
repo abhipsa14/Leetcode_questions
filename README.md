@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/abhipsa14/Leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/abhipsa14/Leetcode_questions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/abhipsa14/Leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/abhipsa14/Leetcode_questions/tree/master/0134-gas-station) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abhipsa14/Leetcode_questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/abhipsa14/Leetcode_questions/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhipsa14/Leetcode_questions/tree/master/0242-valid-anagram) |
@@ -344,6 +346,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abhipsa14/Leetcode_questions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/abhipsa14/Leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhipsa14/Leetcode_questions/tree/master/0417-pacific-atlantic-water-flow) |
