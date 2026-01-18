@@ -13,6 +13,7 @@
 | [0055-jump-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/abhipsa14/Leetcode_questions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/abhipsa14/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/abhipsa14/Leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/abhipsa14/Leetcode_questions/tree/master/0134-gas-station) |
@@ -229,6 +230,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/abhipsa14/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhipsa14/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/abhipsa14/Leetcode_questions/tree/master/0455-assign-cookies) |
@@ -331,6 +333,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/abhipsa14/Leetcode_questions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/abhipsa14/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/abhipsa14/Leetcode_questions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/abhipsa14/Leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
