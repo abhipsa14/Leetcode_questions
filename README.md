@@ -73,6 +73,7 @@
 | [2689-rearranging-fruits](https://github.com/abhipsa14/Leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abhipsa14/Leetcode_questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhipsa14/Leetcode_questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3454-separate-squares-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -130,6 +131,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/abhipsa14/Leetcode_questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/abhipsa14/Leetcode_questions/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/abhipsa14/Leetcode_questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Tree
