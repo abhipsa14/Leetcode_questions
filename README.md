@@ -193,6 +193,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2427-number-of-common-factors](https://github.com/abhipsa14/Leetcode_questions/tree/master/2427-number-of-common-factors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
