@@ -475,4 +475,8 @@
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3454-separate-squares-ii) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/abhipsa14/Leetcode_questions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
