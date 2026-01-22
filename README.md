@@ -78,6 +78,7 @@
 | [3453-separate-squares-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3454-separate-squares-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/abhipsa14/Leetcode_questions/tree/master/3583-count-special-triplets) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -108,6 +109,7 @@
 | [2429-design-a-food-rating-system](https://github.com/abhipsa14/Leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/abhipsa14/Leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhipsa14/Leetcode_questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/abhipsa14/Leetcode_questions/tree/master/3583-count-special-triplets) |
 | [3678-design-task-manager](https://github.com/abhipsa14/Leetcode_questions/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhipsa14/Leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -271,6 +273,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhipsa14/Leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2429-design-a-food-rating-system](https://github.com/abhipsa14/Leetcode_questions/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/abhipsa14/Leetcode_questions/tree/master/3678-design-task-manager) |
 ## Binary Search
 |  |
@@ -395,11 +398,13 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abhipsa14/Leetcode_questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/abhipsa14/Leetcode_questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/abhipsa14/Leetcode_questions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/abhipsa14/Leetcode_questions/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/abhipsa14/Leetcode_questions/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Breadth-First Search
@@ -471,6 +476,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhipsa14/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0086-partition-list](https://github.com/abhipsa14/Leetcode_questions/tree/master/0086-partition-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Line Sweep
 |  |
 | ------- |
@@ -479,4 +485,8 @@
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/abhipsa14/Leetcode_questions/tree/master/0595-big-countries) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
