@@ -60,6 +60,7 @@
 | [1895-largest-magic-square](https://github.com/abhipsa14/Leetcode_questions/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/abhipsa14/Leetcode_questions/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhipsa14/Leetcode_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abhipsa14/Leetcode_questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2239-find-closest-number-to-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/2239-find-closest-number-to-zero) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhipsa14/Leetcode_questions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -252,6 +253,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/abhipsa14/Leetcode_questions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhipsa14/Leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhipsa14/Leetcode_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhipsa14/Leetcode_questions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/abhipsa14/Leetcode_questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhipsa14/Leetcode_questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -305,6 +307,7 @@
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/abhipsa14/Leetcode_questions/tree/master/0940-fruit-into-baskets) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhipsa14/Leetcode_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/abhipsa14/Leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhipsa14/Leetcode_questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
