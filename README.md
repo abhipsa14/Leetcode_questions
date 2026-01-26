@@ -43,6 +43,7 @@
 | [0994-rotting-oranges](https://github.com/abhipsa14/Leetcode_questions/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/abhipsa14/Leetcode_questions/tree/master/1006-vowel-spellchecker) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/abhipsa14/Leetcode_questions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1200-minimum-absolute-difference](https://github.com/abhipsa14/Leetcode_questions/tree/master/1200-minimum-absolute-difference) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/abhipsa14/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abhipsa14/Leetcode_questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhipsa14/Leetcode_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -250,6 +251,7 @@
 | [0242-valid-anagram](https://github.com/abhipsa14/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/abhipsa14/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/abhipsa14/Leetcode_questions/tree/master/0645-set-mismatch) |
+| [1200-minimum-absolute-difference](https://github.com/abhipsa14/Leetcode_questions/tree/master/1200-minimum-absolute-difference) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/abhipsa14/Leetcode_questions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhipsa14/Leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
