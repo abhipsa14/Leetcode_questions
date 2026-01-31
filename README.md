@@ -515,6 +515,7 @@
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/abhipsa14/Leetcode_questions/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/abhipsa14/Leetcode_questions/tree/master/0595-big-countries) |
 ## Doubly-Linked List
 |  |
