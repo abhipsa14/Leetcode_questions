@@ -92,6 +92,7 @@
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3583-count-special-triplets](https://github.com/abhipsa14/Leetcode_questions/tree/master/3583-count-special-triplets) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3637-trionic-array-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhipsa14/Leetcode_questions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
