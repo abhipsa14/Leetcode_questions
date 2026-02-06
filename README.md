@@ -93,6 +93,7 @@
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3583-count-special-triplets](https://github.com/abhipsa14/Leetcode_questions/tree/master/3583-count-special-triplets) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3640-trionic-array-ii) |
@@ -278,6 +279,7 @@
 | [2689-rearranging-fruits](https://github.com/abhipsa14/Leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abhipsa14/Leetcode_questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Greedy
 |  |
@@ -335,6 +337,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/abhipsa14/Leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhipsa14/Leetcode_questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Brainteaser
 |  |
