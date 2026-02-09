@@ -172,6 +172,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/1382-balance-a-binary-search-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
@@ -188,6 +189,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/abhipsa14/Leetcode_questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Math
@@ -288,6 +290,7 @@
 | [0055-jump-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/abhipsa14/Leetcode_questions/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/abhipsa14/Leetcode_questions/tree/master/0455-assign-cookies) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhipsa14/Leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abhipsa14/Leetcode_questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -433,6 +436,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -485,6 +489,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhipsa14/Leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0912-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -580,4 +585,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0509-fibonacci-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
