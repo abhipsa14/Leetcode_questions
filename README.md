@@ -134,6 +134,7 @@
 | [3583-count-special-triplets](https://github.com/abhipsa14/Leetcode_questions/tree/master/3583-count-special-triplets) |
 | [3678-design-task-manager](https://github.com/abhipsa14/Leetcode_questions/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhipsa14/Leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -269,6 +270,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3714-longest-balanced-substring-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -494,6 +496,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/abhipsa14/Leetcode_questions/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhipsa14/Leetcode_questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3714-longest-balanced-substring-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Divide and Conquer
