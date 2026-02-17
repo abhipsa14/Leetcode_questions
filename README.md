@@ -153,6 +153,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/abhipsa14/Leetcode_questions/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/abhipsa14/Leetcode_questions/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/abhipsa14/Leetcode_questions/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhipsa14/Leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/abhipsa14/Leetcode_questions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -515,6 +516,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/abhipsa14/Leetcode_questions/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0679-24-game) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Geometry
