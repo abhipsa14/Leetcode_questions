@@ -261,6 +261,7 @@
 | [0125-valid-palindrome](https://github.com/abhipsa14/Leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abhipsa14/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/abhipsa14/Leetcode_questions/tree/master/0290-word-pattern) |
+| [0696-count-binary-substrings](https://github.com/abhipsa14/Leetcode_questions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhipsa14/Leetcode_questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1006-vowel-spellchecker](https://github.com/abhipsa14/Leetcode_questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhipsa14/Leetcode_questions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -413,6 +414,7 @@
 | [0125-valid-palindrome](https://github.com/abhipsa14/Leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/abhipsa14/Leetcode_questions/tree/master/0455-assign-cookies) |
+| [0696-count-binary-substrings](https://github.com/abhipsa14/Leetcode_questions/tree/master/0696-count-binary-substrings) |
 | [1768-merge-strings-alternately](https://github.com/abhipsa14/Leetcode_questions/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/abhipsa14/Leetcode_questions/tree/master/1894-merge-strings-alternately) |
