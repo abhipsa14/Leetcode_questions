@@ -263,6 +263,7 @@
 | [0290-word-pattern](https://github.com/abhipsa14/Leetcode_questions/tree/master/0290-word-pattern) |
 | [0696-count-binary-substrings](https://github.com/abhipsa14/Leetcode_questions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhipsa14/Leetcode_questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/0761-special-binary-string) |
 | [1006-vowel-spellchecker](https://github.com/abhipsa14/Leetcode_questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhipsa14/Leetcode_questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abhipsa14/Leetcode_questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -286,6 +287,7 @@
 | [0242-valid-anagram](https://github.com/abhipsa14/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/abhipsa14/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/abhipsa14/Leetcode_questions/tree/master/0645-set-mismatch) |
+| [0761-special-binary-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/abhipsa14/Leetcode_questions/tree/master/1200-minimum-absolute-difference) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/abhipsa14/Leetcode_questions/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -512,6 +514,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhipsa14/Leetcode_questions/tree/master/0053-maximum-subarray) |
+| [0761-special-binary-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3719-longest-balanced-subarray-i) |
