@@ -156,6 +156,7 @@
 | [0401-binary-watch](https://github.com/abhipsa14/Leetcode_questions/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/abhipsa14/Leetcode_questions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/abhipsa14/Leetcode_questions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abhipsa14/Leetcode_questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhipsa14/Leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/abhipsa14/Leetcode_questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -217,6 +218,7 @@
 | [0509-fibonacci-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0509-fibonacci-number) |
 | [0587-erect-the-fence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0587-erect-the-fence) |
 | [0679-24-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0679-24-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abhipsa14/Leetcode_questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/abhipsa14/Leetcode_questions/tree/master/0830-largest-triangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/abhipsa14/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abhipsa14/Leetcode_questions/tree/master/1266-minimum-time-visiting-all-points) |
