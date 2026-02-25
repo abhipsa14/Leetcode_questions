@@ -50,6 +50,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/abhipsa14/Leetcode_questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhipsa14/Leetcode_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/abhipsa14/Leetcode_questions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhipsa14/Leetcode_questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/abhipsa14/Leetcode_questions/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abhipsa14/Leetcode_questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/abhipsa14/Leetcode_questions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhipsa14/Leetcode_questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhipsa14/Leetcode_questions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -161,6 +163,7 @@
 | [0868-binary-gap](https://github.com/abhipsa14/Leetcode_questions/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhipsa14/Leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/abhipsa14/Leetcode_questions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhipsa14/Leetcode_questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abhipsa14/Leetcode_questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhipsa14/Leetcode_questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/abhipsa14/Leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -299,6 +302,7 @@
 | [0912-sort-an-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/abhipsa14/Leetcode_questions/tree/master/1200-minimum-absolute-difference) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/abhipsa14/Leetcode_questions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhipsa14/Leetcode_questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhipsa14/Leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhipsa14/Leetcode_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
