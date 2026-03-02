@@ -26,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/abhipsa14/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/abhipsa14/Leetcode_questions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/abhipsa14/Leetcode_questions/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
@@ -437,6 +438,7 @@
 | [0086-partition-list](https://github.com/abhipsa14/Leetcode_questions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/abhipsa14/Leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/abhipsa14/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/abhipsa14/Leetcode_questions/tree/master/0696-count-binary-substrings) |
