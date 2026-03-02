@@ -21,6 +21,7 @@
 | [0152-maximum-product-subarray](https://github.com/abhipsa14/Leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhipsa14/Leetcode_questions/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/abhipsa14/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/abhipsa14/Leetcode_questions/tree/master/0228-summary-ranges) |
@@ -224,6 +225,7 @@
 | [0050-powx-n](https://github.com/abhipsa14/Leetcode_questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/abhipsa14/Leetcode_questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/abhipsa14/Leetcode_questions/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0509-fibonacci-number) |
@@ -434,6 +436,7 @@
 | [0075-sort-colors](https://github.com/abhipsa14/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/abhipsa14/Leetcode_questions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/abhipsa14/Leetcode_questions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/abhipsa14/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/abhipsa14/Leetcode_questions/tree/master/0696-count-binary-substrings) |
