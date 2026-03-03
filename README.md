@@ -26,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/abhipsa14/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/abhipsa14/Leetcode_questions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/abhipsa14/Leetcode_questions/tree/master/0322-coin-change) |
@@ -119,6 +120,7 @@
 | [0217-contains-duplicate](https://github.com/abhipsa14/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhipsa14/Leetcode_questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/abhipsa14/Leetcode_questions/tree/master/0290-word-pattern) |
 | [0645-set-mismatch](https://github.com/abhipsa14/Leetcode_questions/tree/master/0645-set-mismatch) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abhipsa14/Leetcode_questions/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/abhipsa14/Leetcode_questions/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/abhipsa14/Leetcode_questions/tree/master/0645-set-mismatch) |
@@ -230,6 +233,7 @@
 | [0189-rotate-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0509-fibonacci-number) |
 | [0587-erect-the-fence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0587-erect-the-fence) |
 | [0679-24-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0679-24-game) |
@@ -306,6 +310,7 @@
 | [0217-contains-duplicate](https://github.com/abhipsa14/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhipsa14/Leetcode_questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/abhipsa14/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/abhipsa14/Leetcode_questions/tree/master/0645-set-mismatch) |
 | [0761-special-binary-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/0761-special-binary-string) |
@@ -364,6 +369,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhipsa14/Leetcode_questions/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhipsa14/Leetcode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhipsa14/Leetcode_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
