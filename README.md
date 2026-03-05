@@ -296,6 +296,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abhipsa14/Leetcode_questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abhipsa14/Leetcode_questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/abhipsa14/Leetcode_questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/abhipsa14/Leetcode_questions/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/abhipsa14/Leetcode_questions/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abhipsa14/Leetcode_questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
