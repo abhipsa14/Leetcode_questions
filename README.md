@@ -71,6 +71,7 @@
 | [1895-largest-magic-square](https://github.com/abhipsa14/Leetcode_questions/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/abhipsa14/Leetcode_questions/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhipsa14/Leetcode_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abhipsa14/Leetcode_questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2239-find-closest-number-to-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/2239-find-closest-number-to-zero) |
@@ -133,6 +134,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/abhipsa14/Leetcode_questions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abhipsa14/Leetcode_questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1980-find-unique-binary-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/1980-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/abhipsa14/Leetcode_questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2429-design-a-food-rating-system](https://github.com/abhipsa14/Leetcode_questions/tree/master/2429-design-a-food-rating-system) |
@@ -301,6 +303,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/abhipsa14/Leetcode_questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abhipsa14/Leetcode_questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1894-merge-strings-alternately](https://github.com/abhipsa14/Leetcode_questions/tree/master/1894-merge-strings-alternately) |
+| [1980-find-unique-binary-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/1980-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abhipsa14/Leetcode_questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2429-design-a-food-rating-system](https://github.com/abhipsa14/Leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -569,6 +572,7 @@
 | ------- |
 | [0401-binary-watch](https://github.com/abhipsa14/Leetcode_questions/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0679-24-game) |
+| [1980-find-unique-binary-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/1980-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Geometry
 |  |
