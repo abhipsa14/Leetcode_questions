@@ -445,6 +445,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/abhipsa14/Leetcode_questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3640-trionic-array-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhipsa14/Leetcode_questions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/abhipsa14/Leetcode_questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -556,6 +557,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/abhipsa14/Leetcode_questions/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhipsa14/Leetcode_questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3719-longest-balanced-subarray-i) |
