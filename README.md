@@ -92,6 +92,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/3379-transformed-array) |
@@ -258,6 +259,7 @@
 | [2427-number-of-common-factors](https://github.com/abhipsa14/Leetcode_questions/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/abhipsa14/Leetcode_questions/tree/master/3830-find-closest-person) |
@@ -353,6 +355,7 @@
 | [1975-maximum-matrix-sum](https://github.com/abhipsa14/Leetcode_questions/tree/master/1975-maximum-matrix-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhipsa14/Leetcode_questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2689-rearranging-fruits](https://github.com/abhipsa14/Leetcode_questions/tree/master/2689-rearranging-fruits) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/abhipsa14/Leetcode_questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhipsa14/Leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Recursion
@@ -369,6 +372,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhipsa14/Leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2429-design-a-food-rating-system](https://github.com/abhipsa14/Leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/abhipsa14/Leetcode_questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -386,6 +390,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhipsa14/Leetcode_questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/abhipsa14/Leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhipsa14/Leetcode_questions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/abhipsa14/Leetcode_questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
