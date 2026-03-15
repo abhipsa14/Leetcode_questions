@@ -252,6 +252,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhipsa14/Leetcode_questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abhipsa14/Leetcode_questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/1622-fancy-sequence) |
 | [1642-water-bottles](https://github.com/abhipsa14/Leetcode_questions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abhipsa14/Leetcode_questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/abhipsa14/Leetcode_questions/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -519,6 +520,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -612,6 +614,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abhipsa14/Leetcode_questions/tree/master/0225-implement-stack-using-queues) |
+| [1622-fancy-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/1622-fancy-sequence) |
 | [2429-design-a-food-rating-system](https://github.com/abhipsa14/Leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/abhipsa14/Leetcode_questions/tree/master/3678-design-task-manager) |
 ## Trie
