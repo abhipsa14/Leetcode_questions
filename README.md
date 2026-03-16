@@ -68,6 +68,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/abhipsa14/Leetcode_questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abhipsa14/Leetcode_questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhipsa14/Leetcode_questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/abhipsa14/Leetcode_questions/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/abhipsa14/Leetcode_questions/tree/master/1975-maximum-matrix-sum) |
@@ -256,6 +257,7 @@
 | [1642-water-bottles](https://github.com/abhipsa14/Leetcode_questions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abhipsa14/Leetcode_questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/abhipsa14/Leetcode_questions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhipsa14/Leetcode_questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2427-number-of-common-factors](https://github.com/abhipsa14/Leetcode_questions/tree/master/2427-number-of-common-factors) |
@@ -334,6 +336,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhipsa14/Leetcode_questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhipsa14/Leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhipsa14/Leetcode_questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhipsa14/Leetcode_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhipsa14/Leetcode_questions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/abhipsa14/Leetcode_questions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -373,6 +376,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
 | [0912-sort-an-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0912-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhipsa14/Leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhipsa14/Leetcode_questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2429-design-a-food-rating-system](https://github.com/abhipsa14/Leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -496,6 +500,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abhipsa14/Leetcode_questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/abhipsa14/Leetcode_questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/abhipsa14/Leetcode_questions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhipsa14/Leetcode_questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/abhipsa14/Leetcode_questions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/abhipsa14/Leetcode_questions/tree/master/1975-maximum-matrix-sum) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -567,6 +572,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhipsa14/Leetcode_questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/abhipsa14/Leetcode_questions/tree/master/1895-largest-magic-square) |
 | [2529-range-product-queries-of-powers](https://github.com/abhipsa14/Leetcode_questions/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhipsa14/Leetcode_questions/tree/master/2618-maximize-the-minimum-powered-city) |
