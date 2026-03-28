@@ -88,6 +88,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/abhipsa14/Leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/abhipsa14/Leetcode_questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/abhipsa14/Leetcode_questions/tree/master/2529-range-product-queries-of-powers) |
+| [2573-find-the-string-with-lcp](https://github.com/abhipsa14/Leetcode_questions/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhipsa14/Leetcode_questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2689-rearranging-fruits](https://github.com/abhipsa14/Leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abhipsa14/Leetcode_questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -325,6 +326,7 @@
 | [1980-find-unique-binary-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/1980-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abhipsa14/Leetcode_questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2429-design-a-food-rating-system](https://github.com/abhipsa14/Leetcode_questions/tree/master/2429-design-a-food-rating-system) |
+| [2573-find-the-string-with-lcp](https://github.com/abhipsa14/Leetcode_questions/tree/master/2573-find-the-string-with-lcp) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
@@ -373,6 +375,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abhipsa14/Leetcode_questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/abhipsa14/Leetcode_questions/tree/master/1975-maximum-matrix-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/abhipsa14/Leetcode_questions/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhipsa14/Leetcode_questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2689-rearranging-fruits](https://github.com/abhipsa14/Leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -472,6 +475,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abhipsa14/Leetcode_questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abhipsa14/Leetcode_questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/abhipsa14/Leetcode_questions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2573-find-the-string-with-lcp](https://github.com/abhipsa14/Leetcode_questions/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -520,6 +524,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abhipsa14/Leetcode_questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/abhipsa14/Leetcode_questions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/abhipsa14/Leetcode_questions/tree/master/1975-maximum-matrix-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/abhipsa14/Leetcode_questions/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abhipsa14/Leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhipsa14/Leetcode_questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhipsa14/Leetcode_questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -734,6 +739,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
+| [2573-find-the-string-with-lcp](https://github.com/abhipsa14/Leetcode_questions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/abhipsa14/Leetcode_questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
