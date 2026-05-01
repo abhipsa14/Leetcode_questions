@@ -32,6 +32,7 @@
 | [0283-move-zeroes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/abhipsa14/Leetcode_questions/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/abhipsa14/Leetcode_questions/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhipsa14/Leetcode_questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/abhipsa14/Leetcode_questions/tree/master/0455-assign-cookies) |
@@ -258,6 +259,7 @@
 | [0204-count-primes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/abhipsa14/Leetcode_questions/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0509-fibonacci-number) |
 | [0587-erect-the-fence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0587-erect-the-fence) |
 | [0679-24-game](https://github.com/abhipsa14/Leetcode_questions/tree/master/0679-24-game) |
@@ -482,6 +484,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhipsa14/Leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/abhipsa14/Leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/abhipsa14/Leetcode_questions/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/abhipsa14/Leetcode_questions/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhipsa14/Leetcode_questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/abhipsa14/Leetcode_questions/tree/master/0799-champagne-tower) |
