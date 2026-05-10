@@ -255,6 +255,7 @@
 | [0050-powx-n](https://github.com/abhipsa14/Leetcode_questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/abhipsa14/Leetcode_questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/abhipsa14/Leetcode_questions/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0263-ugly-number) |
@@ -313,6 +314,7 @@
 | [0014-longest-common-prefix](https://github.com/abhipsa14/Leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/abhipsa14/Leetcode_questions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/abhipsa14/Leetcode_questions/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/abhipsa14/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/abhipsa14/Leetcode_questions/tree/master/0290-word-pattern) |
 | [0696-count-binary-substrings](https://github.com/abhipsa14/Leetcode_questions/tree/master/0696-count-binary-substrings) |
