@@ -148,6 +148,7 @@
 | [0242-valid-anagram](https://github.com/abhipsa14/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/abhipsa14/Leetcode_questions/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/abhipsa14/Leetcode_questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/abhipsa14/Leetcode_questions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/abhipsa14/Leetcode_questions/tree/master/0645-set-mismatch) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -182,6 +183,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/abhipsa14/Leetcode_questions/tree/master/0383-ransom-note) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/abhipsa14/Leetcode_questions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhipsa14/Leetcode_questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -330,6 +332,7 @@
 | [0171-excel-sheet-column-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/abhipsa14/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/abhipsa14/Leetcode_questions/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/abhipsa14/Leetcode_questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/abhipsa14/Leetcode_questions/tree/master/0389-find-the-difference) |
 | [0696-count-binary-substrings](https://github.com/abhipsa14/Leetcode_questions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhipsa14/Leetcode_questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
