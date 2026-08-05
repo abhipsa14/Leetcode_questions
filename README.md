@@ -26,6 +26,7 @@
 | [0189-rotate-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/abhipsa14/Leetcode_questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/abhipsa14/Leetcode_questions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0268-missing-number) |
@@ -145,6 +146,7 @@
 | [0073-set-matrix-zeroes](https://github.com/abhipsa14/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/abhipsa14/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/abhipsa14/Leetcode_questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhipsa14/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhipsa14/Leetcode_questions/tree/master/0268-missing-number) |
@@ -472,6 +474,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0940-fruit-into-baskets](https://github.com/abhipsa14/Leetcode_questions/tree/master/0940-fruit-into-baskets) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abhipsa14/Leetcode_questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhipsa14/Leetcode_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
