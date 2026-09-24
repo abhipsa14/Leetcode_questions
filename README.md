@@ -123,6 +123,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhipsa14/Leetcode_questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/abhipsa14/Leetcode_questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3583-count-special-triplets](https://github.com/abhipsa14/Leetcode_questions/tree/master/3583-count-special-triplets) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -305,6 +306,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhipsa14/Leetcode_questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3462-vowels-game-in-a-string](https://github.com/abhipsa14/Leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhipsa14/Leetcode_questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/abhipsa14/Leetcode_questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3783-mirror-distance-of-an-integer](https://github.com/abhipsa14/Leetcode_questions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/abhipsa14/Leetcode_questions/tree/master/3830-find-closest-person) |
