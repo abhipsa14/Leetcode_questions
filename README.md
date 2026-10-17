@@ -125,6 +125,7 @@
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhipsa14/Leetcode_questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhipsa14/Leetcode_questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/abhipsa14/Leetcode_questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3583-count-special-triplets](https://github.com/abhipsa14/Leetcode_questions/tree/master/3583-count-special-triplets) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -180,6 +181,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhipsa14/Leetcode_questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3583-count-special-triplets](https://github.com/abhipsa14/Leetcode_questions/tree/master/3583-count-special-triplets) |
 | [3678-design-task-manager](https://github.com/abhipsa14/Leetcode_questions/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3713-longest-balanced-substring-i) |
@@ -409,6 +411,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abhipsa14/Leetcode_questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhipsa14/Leetcode_questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhipsa14/Leetcode_questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhipsa14/Leetcode_questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/abhipsa14/Leetcode_questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/abhipsa14/Leetcode_questions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abhipsa14/Leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
