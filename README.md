@@ -787,6 +787,7 @@
 | [0183-customers-who-never-order](https://github.com/abhipsa14/Leetcode_questions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/abhipsa14/Leetcode_questions/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/abhipsa14/Leetcode_questions/tree/master/0197-rising-temperature) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/abhipsa14/Leetcode_questions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/abhipsa14/Leetcode_questions/tree/master/0595-big-countries) |
 ## Doubly-Linked List
 |  |
