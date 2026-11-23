@@ -790,6 +790,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/abhipsa14/Leetcode_questions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/abhipsa14/Leetcode_questions/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/abhipsa14/Leetcode_questions/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/abhipsa14/Leetcode_questions/tree/master/0610-triangle-judgement) |
 ## Doubly-Linked List
 |  |
 | ------- |
